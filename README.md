@@ -53,5 +53,3 @@ Recommendations:
 The optimization_report.csv will contain optimization recommendations such as "Optimal" (no action needed) or "Reduce Frequency or VM Size" for jobs that can be optimized to save costs.
 License:
 This project is open-source and free to use under the MIT License.
-
-This README provides a clear and concise overview of the project, how to run it, and what to expect from the output.
